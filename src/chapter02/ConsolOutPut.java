@@ -12,6 +12,10 @@ public class ConsolOutPut {
 		
 		System.out.print("안녕 \n");		// \n: enter
 		System.out.println("하세요.");
+
+		System.out.println("추가된 내용 1");
+
+
 		
 	}
 
